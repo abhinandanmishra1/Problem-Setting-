@@ -1,2 +1,9 @@
-# Problem-Setting-
-This is my code in file handling which I use to create test cases and outputs.
+# Problem-Setting Guide
+
+- How to create problems?
+- How to think like a problem setter?
+- How to think of each and every testcase?
+
+
+- How to create testcases?
+
